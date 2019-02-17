@@ -9,6 +9,15 @@ body {
   background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
 }
 
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  cursor: pointer;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
